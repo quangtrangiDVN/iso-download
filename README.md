@@ -12,11 +12,10 @@
      ```bash
      https://drive.google.com/drive/folders/1XxIc6lO6ClpPL2Ju47_wZPpF2NUBTXFN?usp=sharing
      ```
-PowerShell (Windows 8 and later) ❤️
-Open PowerShell
-To do that, press the Windows key + X, then select PowerShell or Terminal.
+Mở PowerShell
+Để thực hiện, hãy nhấn phím Windows + X, sau đó chọn PowerShell hoặc Terminal.
 
-Copy and paste the code below, then press enter.
+Sao chép và dán mã bên dưới, sau đó nhấn enter.
   - **Activate Windows / Office*:
      ```bash
      irm https://get.activated.win | iex
@@ -25,16 +24,16 @@ Copy and paste the code below, then press enter.
      ```bash
      irm https://massgrave.dev/get | iex
      ```
-Download the file using one of the links below:
+1. Download the file using one of the links below:
      ```bash
-     [irm https://massgrave.dev/get | iex](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
+     https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip
      ```
 
      ```bash
      https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip
      ```
-Nhấp chuột phải vào tệp zip đã tải xuống và giải nén.
-Trong thư mục đã giải nén, tìm thư mục có tên All-In-One-Version.
-Chạy tệp có tên MAS_AIO.cmd.
-Bạn sẽ thấy các tùy chọn kích hoạt. Làm theo hướng dẫn trên màn hình.
+2. Nhấp chuột phải vào tệp zip đã tải xuống và giải nén.
+3. Trong thư mục đã giải nén, tìm thư mục có tên All-In-One-Version.
+4. Chạy tệp có tên MAS_AIO.cmd.
+5. Bạn sẽ thấy các tùy chọn kích hoạt. Làm theo hướng dẫn trên màn hình.
 Vậy thôi.
