@@ -12,7 +12,7 @@
      ```bash
      https://drive.google.com/drive/folders/1XxIc6lO6ClpPL2Ju47_wZPpF2NUBTXFN?usp=sharing
      ```
-Mở PowerShell
+Mở PowerShell hoặc CMD
 Để thực hiện, hãy nhấn phím Windows + X, sau đó chọn PowerShell hoặc Terminal.
 
 Sao chép và dán mã bên dưới, sau đó nhấn enter.
@@ -24,7 +24,8 @@ Sao chép và dán mã bên dưới, sau đó nhấn enter.
      ```bash
      irm https://massgrave.dev/get | iex
      ```
-1. Download the file using one of the links below:
+    TOOL 
+1. Tải xuống tệp bằng một trong các liên kết bên dưới:
      ```bash
      https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip
      ```
