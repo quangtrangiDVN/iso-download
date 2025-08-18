@@ -1,12 +1,8 @@
 # ios-download
 
-   - **M365**:
+   - **Windows - M365**:
      ```bash
-     https://home.myhpcloud.com/acs/fileshare/?shareToken=UEowbTVIV3EwcnhsT1QvMUsyMXFXUT09Ojo8NiaYEwC0AchSPENklgSjOjp6cXplNTgxanpaZWFsVGFqOEhiU2VRPT0=
-     ```
-  - **Windows**:
-     ```bash
-      https://home.myhpcloud.com/acs/fileshare/?shareToken=MEJjZjNTcnVLNXVqTXpKSW4xRjcrUT09OjpW3rlnvz25JQoFXtiq-IvpOjpIa0NCZmU4YndtK0lBdUs5elo4ejJBPT0=
+    https://1drv.ms/f/c/963c576a867c4d67/ErCoZIokjEFLk89NXtNvkXYBWifjMc3TtgTQKUZD53KV9w?e=XnHSt6
      ```
   - **android APK**:
      ```bash
