@@ -2,7 +2,7 @@
 
    - **Windows - M365**:
      ```bash
-    https://1drv.ms/f/c/963c576a867c4d67/ErCoZIokjEFLk89NXtNvkXYBWifjMc3TtgTQKUZD53KV9w?e=XnHSt6
+     https://1drv.ms/f/c/963c576a867c4d67/ErCoZIokjEFLk89NXtNvkXYBWifjMc3TtgTQKUZD53KV9w?e=XnHSt6
      ```
   - **android APK**:
      ```bash
