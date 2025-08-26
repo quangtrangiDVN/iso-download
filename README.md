@@ -1,6 +1,6 @@
 # ios-download
 
-   - **Windows - M365**: [Nhấp vào đây để tải](https://1drv.ms/f/c/963c576a867c4d67/ErCoZlokjEFLk89NXtNvkXYBWiFjMc3TtgTQKUZD53KV9w?e=XnHSt6)
+   - **Windows - M365**: [Download Now](https://1drv.ms/f/c/963c576a867c4d67/ErCoZIokjEFLk89NXtNvkXYBWifjMc3TtgTQKUZD53KV9w?e=XnHSt6)
      ```bash
      https://1drv.ms/f/c/963c576a867c4d67/ErCoZIokjEFLk89NXtNvkXYBWifjMc3TtgTQKUZD53KV9w?e=XnHSt6
      ```
