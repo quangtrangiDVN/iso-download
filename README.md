@@ -1,7 +1,7 @@
 # ios-download
 
-   - **Windows - M365 Folder File**: [Download Now](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy85NjNjNTc2YTg2N2M0ZDY3L0VyQ29aSW9rakVGTGs4OU5YdE52a1hZQldpZmpNYzNUdGdUUUtVWkQ1M0tWOXc%5FZT1YbkhTdDY&id=963C576A867C4D67%21s8a64a8b08c244b4193cf4d5ed36f9176&cid=963C576A867C4D67)
-  - **Windows 11 iso file update 1/11/2025**: [Download Now](https://onedrive.live.com/personal/963c576a867c4d67/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2F963c576a867c4d67%2FDocuments%2FShare%2FIOS%20%2D%20Share%2FWin11%5F25H2%5Fupdate1%2D11%2D2025%5FEnglishInternational%5Fx64%2Eiso)
+   - **Windows - M365 Folder File**: Muốn vào Folder hãy trả lời câu hỏi sau bằng cách Click chuột, Trạng có đẹp trai không? [có](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy85NjNjNTc2YTg2N2M0ZDY3L0VyQ29aSW9rakVGTGs4OU5YdE52a1hZQldpZmpNYzNUdGdUUUtVWkQ1M0tWOXc%5FZT1YbkhTdDY&id=963C576A867C4D67%21s8a64a8b08c244b4193cf4d5ed36f9176&cid=963C576A867C4D67) [Không](https://docs.google.com/document/d/1LJoZaLJs56UNBZWUSf574FfilomUXTYMVYUnLvRR-SU/edit?usp=sharing)
+  - **Windows 11 iso file update 1/11/2025**: [Download Now](https://my.microsoftpersonalcontent.com/personal/963c576a867c4d67/_layouts/15/download.aspx?UniqueId=a6ab62d3-1f74-44ee-ac40-0f6d81730bc9&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiI0Y2I0NGYxMS0zYmJhLTQxNTMtYWJkYS1hYWVlOWYwMzM2MmUiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvbXkubWljcm9zb2Z0cGVyc29uYWxjb250ZW50LmNvbUA5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQiLCJleHAiOiIxNzYxOTg1MTcwIn0.NWfHSgKzGPu6kAfhonydSWDaZ6sJQIAiOkno1or_EuiP24SI_KmCIvr3Q2H17gsTa1PNNyyvSIiK-MATjS0ridYPhd_O76nsR5OzzQRLZTmXZztBzJyjXrLg3qxqms9wakAggK7XH9DwMO06-NwsjiKyuHFzlOA3lg9sKO6itS04XnGcx3sNoacvhXjzG6q16-pqT27nIjoyYgtxbsU_cSSUGs3NmAuuGldQVYgZsyjFkns8fqIkh1orXZDC7PxjCGtEUtvsFtksxi7U8HnctEuOCI-R3I4pSPikQ2Rjj1VzefIfSfeZtnAionrKBlPe0bnjinjLxgqU3LBxzqheIdXKIcG-83jEH0L7c_q5qZ82xC3NZWSVb2Op2S2z0MEHwN3IZfMQFs5BMdtxYgI49FgWh_BtCZ-O61k-LOnQMRw0mPvo5ZgLA4kB_tfEuStqaP0KwFs1RldTNKY7kmO8HY_Hs4l_Rv_ZesBj883lmZYtv7f7bRS6LBOzAzBtwTftMXj0UbeNSnPitUiftrJG0Q.TlVIrnO7dPtw-uSIOcW_tUSpH-XjcbyYZoRBFTphFsY&ApiVersion=2.0)
     
   - **android APK**: [Download Now](https://drive.google.com/drive/folders/1XxIc6lO6ClpPL2Ju47_wZPpF2NUBTXFN?usp=sharing)
 
@@ -19,9 +19,8 @@ Sao chép và dán mã bên dưới, sau đó nhấn enter.
      ```
     TOOL 
 1. Tải xuống tệp bằng một trong các liên kết bên dưới:
-[Download Now 1](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
-
-[Download Now 2](https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip)
+- [Download Now 1](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
+- [Download Now 2](https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip)
 
 3. Nhấp chuột phải vào tệp zip đã tải xuống và giải nén.
 4. Trong thư mục đã giải nén, tìm thư mục có tên All-In-One-Version.
