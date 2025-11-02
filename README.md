@@ -14,8 +14,10 @@
 
    
 - **Visio 2019**: [Download Now](https://home.myhpcloud.com/acs/fileshare/?shareToken=WFBXTFhKajNqblE5S2FkYnV0M0hYQT09Ojp0di8rQTBYdk1jYmpmMmhqYXpNRVdRPT06OndHYnR5N3NKdk92REtQUjZaSHg3bGc9PQ==)
+  
 
 Mở PowerShell hoặc CMD với quyền Administrator - Off windows defender
+
 Để thực hiện, hãy nhấn phím Windows + X, sau đó chọn PowerShell hoặc Terminal.
 
 Sao chép và dán mã bên dưới, sau đó nhấn enter.
