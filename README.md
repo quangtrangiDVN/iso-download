@@ -5,14 +5,17 @@
   - **Office Cổ 2010-2019**:
 
       [2019](https://home.myhpcloud.com/acs/fileshare/?shareToken=a3VxT051RFNrbGZYb2x6QWhiMkRTQT09OjpoZHNOM3hOQnpwK2tpaGtQaEdMQVZRPT06OnJuN2o0ejVYdTFJV0o1RHQ1MzdHZnc9PQ==)
+    
       [2013](https://home.myhpcloud.com/acs/fileshare/?shareToken=QXJsUlVqMVNVWlc3MTZFWU5WNGVxZz09OjpQWGwwbVc4YVFtSFdLVzk0MGc5a1R3PT06OkpPejUxR2tuamNvRCtUSmtVaW00NFE9PQ==)
+    
       [2016](https://home.myhpcloud.com/acs/fileshare/?shareToken=NzdPVjVFeUpVWHMvR0JJbUdEMytUZz09OjpRenl6VXlzcTBDSlVoZ1pKWk8rZmN3PT06OkRpWFFJRUJCekxORHlyQzU3bHV0WFE9PQ==)
+    
       [2010](https://home.myhpcloud.com/acs/fileshare/?shareToken=Y1F4czlIQUtmcFhwY2w3ZEpTSnIwUT09Ojo1eHlVbWl3dmNHTlYwS0YxUTN2c3hRPT06OnVQL1Z6Y3NHMFhURDA4OGEwelVlY1E9PQ==)
 
    
 - **Visio 2019**: [Download Now](https://home.myhpcloud.com/acs/fileshare/?shareToken=WFBXTFhKajNqblE5S2FkYnV0M0hYQT09Ojp0di8rQTBYdk1jYmpmMmhqYXpNRVdRPT06OndHYnR5N3NKdk92REtQUjZaSHg3bGc9PQ==)
 
-Mở PowerShell hoặc CMD
+Mở PowerShell hoặc CMD với quyền Administrator - Off windows defender
 Để thực hiện, hãy nhấn phím Windows + X, sau đó chọn PowerShell hoặc Terminal.
 
 Sao chép và dán mã bên dưới, sau đó nhấn enter.
