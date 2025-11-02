@@ -4,10 +4,10 @@
   - **Windows 11 iso file update 1/11/2025**: Hỏi lại cái nữa Trạng có đẹp trai không? [Có](https://docs.google.com/document/d/1LJoZaLJs56UNBZWUSf574FfilomUXTYMVYUnLvRR-SU/edit?usp=sharing) - [Không](https://1drv.ms/u/c/963c576a867c4d67/EdNiq6Z0H-5ErEAPbYFzC8kBZMjGIvIan9f7fUfcbj6U1g?e=3npVCJ)
   - **Office Cổ 2010-2019**:
 
-   * [2019](https://home.myhpcloud.com/acs/fileshare/?shareToken=a3VxT051RFNrbGZYb2x6QWhiMkRTQT09OjpoZHNOM3hOQnpwK2tpaGtQaEdMQVZRPT06OnJuN2o0ejVYdTFJV0o1RHQ1MzdHZnc9PQ==)
+   -*[2019](https://home.myhpcloud.com/acs/fileshare/?shareToken=a3VxT051RFNrbGZYb2x6QWhiMkRTQT09OjpoZHNOM3hOQnpwK2tpaGtQaEdMQVZRPT06OnJuN2o0ejVYdTFJV0o1RHQ1MzdHZnc9PQ==)
    * [2013](https://home.myhpcloud.com/acs/fileshare/?shareToken=QXJsUlVqMVNVWlc3MTZFWU5WNGVxZz09OjpQWGwwbVc4YVFtSFdLVzk0MGc5a1R3PT06OkpPejUxR2tuamNvRCtUSmtVaW00NFE9PQ==)
-   * [2016](Đang update)
-   * [2010](Đang update)
+   * [2016](Đang update=).      
+   * [2010](Đang update).
 
    
 - **Visio 2019**: [Download Now](https://home.myhpcloud.com/acs/fileshare/?shareToken=WFBXTFhKajNqblE5S2FkYnV0M0hYQT09Ojp0di8rQTBYdk1jYmpmMmhqYXpNRVdRPT06OndHYnR5N3NKdk92REtQUjZaSHg3bGc9PQ==)
