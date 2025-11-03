@@ -20,7 +20,8 @@
     
       [2010](https://home.myhpcloud.com/acs/fileshare/?shareToken=Y1F4czlIQUtmcFhwY2w3ZEpTSnIwUT09Ojo1eHlVbWl3dmNHTlYwS0YxUTN2c3hRPT06OnVQL1Z6Y3NHMFhURDA4OGEwelVlY1E9PQ==)
 
-   
+   - **Windows 7**: [Download Now](https://drive.google.com/drive/folders/1nEhBsxDF0f5m0i6I09VWDV7wmZS7ALWJ?usp=sharing)
+     
 - **Visio 2019**: [Download Now](https://home.myhpcloud.com/acs/fileshare/?shareToken=WFBXTFhKajNqblE5S2FkYnV0M0hYQT09Ojp0di8rQTBYdk1jYmpmMmhqYXpNRVdRPT06OndHYnR5N3NKdk92REtQUjZaSHg3bGc9PQ==)
 - **Rufus**: Tool USB boot có thể By pa ss máy khg hỗ trợ TPM 2.0 để cài đặt windows 11: [Download Now](https://rufus.ie/downloads/)
 - **Tool cứu hộ máy tính**
